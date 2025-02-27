@@ -9,7 +9,7 @@
     <header>
         <h1>Welcome to My GitHub Pages Site</h1>
     </header>
-        <a href = 'newpage.html'>
+        <a href="newpage.html">New Page</a>
             <button> Learn More! </button> 
         </a>
     <main>
