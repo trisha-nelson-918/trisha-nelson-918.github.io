@@ -6,12 +6,20 @@ body {
 }
 
 h1 {
-    color: darkpink;
+    color: pink;
 }
+
+h3 {
+     color: pink;
 
 p {
     font-size: 18px;
     margin: 10px 0;
     background-color: lightpink;
-    color: darkpink;
+    color: pink;
+}
+
+.resize-image {
+    width: 300px; 
+    height: auto; 
 }
