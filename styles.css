@@ -1,7 +1,7 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
-    color: #333;
+    background-color: darkpink;
+    color: white
     margin: 20px;
 }
 
@@ -19,9 +19,9 @@ p {
     color: pink;
 }
 
-.resize-image {
+img {
     width: 300px; 
-    height: auto; 
+    height: 300px; 
 }
 
 button {
