@@ -7,7 +7,7 @@
 </head>
 <body>
     <header>
-        <h1>Welcome to My GitHub Pages Site</h1>
+        <h1>Welcome to Trisha Nelson's Website</h1>
     </header>
         <a href="newpage.html"> 
             <button> Learn More! </button> 
