@@ -1,5 +1,5 @@
 
-here is the link to my deployed website using GitHubPages: https://trisha-nelson-918.github.io/newpage.html
+here is the link to my deployed website using GitHubPages: https://trisha-nelson-918.github.io/README.md
 
 
 On my website, I have made the following customizations:
