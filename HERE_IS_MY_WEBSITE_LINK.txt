@@ -1,0 +1,13 @@
+
+here is the link to my deployed website using GitHubPages: https://trisha-nelson-918.github.io/newpage.html
+
+
+On my website, I have made the following customizations:
+
+- Custom Color Headings: Changed the color of the headings to light/dark
+- Custom Font: Changed the font to Comic Sans and size to 18
+- Custom Margins: 300 by 300 px
+- Button Customizations: Pink color, 16 point font, 10 px and 20 px padding
+
+
+
